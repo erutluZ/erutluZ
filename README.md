@@ -1,4 +1,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=erutluZZ&color=22db3f&style=flat-square)
+
+[☕ Buy Me a Coffee](https://www.buymeacoffee.com/tusngu)
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&width=435&color=6BF765&lines=Hey!+I'm+erutluZ)](https://github.com/erutluZZ)
 
 Hi guys, I'm **erutluZ**. I am a ... from <img alt="Vietnamese Flag" src="https://cdn.countryflags.com/thumbs/vietnam/flag-400.png" width="13" /> **Vietnamese, Bac Ninh Province**.
@@ -25,5 +29,3 @@ Hi guys, I'm **erutluZ**. I am a ... from <img alt="Vietnamese Flag" src="https:
   </tr>
 </table>
 </p>
-
-[☕ Buy Me a Coffee](https://www.buymeacoffee.com/tusngu)

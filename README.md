@@ -9,7 +9,7 @@ Hi guys, I'm **erutluZ**. I am a ... from <img alt="Vietnamese Flag" src="https:
 [![Discord Presence](https://lanyard.cnrad.dev/api/921061399378165782)](https://discord.com/users/921061399378165782)
 
 <h2>⚡ Recent Activity</h2>
-<img align="center" style="padding=0;" src="https://github-stats-extended.vercel.app/graph?username=erutluZ&theme=react-dark&hide_border=true" />
+<img align="center" style="padding=0;" src="https://github-stats-extended.vercel.app/api?username=erutluZ&theme=react-dark&hide_border=true" />
 
 <h2>⚡ Stats</h2>
 
@@ -29,6 +29,4 @@ Hi guys, I'm **erutluZ**. I am a ... from <img alt="Vietnamese Flag" src="https:
 </table>
 </p>
 
-<a href="https://www.buymeacoffee.com/tusngu">
-  <img src="./assets/buymeacoffee.png" alt="Buy Me a Coffee">
-</a>
+[☕ Buy Me a Coffee](https://www.buymeacoffee.com/tusngu)

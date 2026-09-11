@@ -20,11 +20,13 @@ Hi guys, I'm **erutluZ**. I am a ... from <img alt="Vietnamese Flag" src="https:
  <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=erutluZ&count_private=true&show_icons=true&theme=merko&include_all_commits=true" />
+      <img align="center" style="padding=0;" src="https://github-stats-extended.vercel.app/api?username=erutluZ&count_private=true&show_icons=true&theme=merko&include_all_commits=true" />
     </td>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/wakatime?username=erutluZ&theme=react&hide_border=true" />
+      <img align="center" style="padding=0;" src="https://github-stats-extended.vercel.app/api/wakatime?username=erutluZ&theme=react&hide_border=true" />
     </td>
   </tr>
 </table>
 </p>
+
+<a href="https://www.buymeacoffee.com/tusngu"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Candy&emoji=&slug=tusngu&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
